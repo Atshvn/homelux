@@ -52,7 +52,7 @@ export default function Hero() {
   };
 
   return (
-    <div className="bg-[url('./slide1.jpg')] bg-cover ">
+    <div className="bg-[url('/slide1.jpg')] bg-cover ">
       <div className="container mx-auto max-w-[1344px] ">
         <div className="flex flex-col gap-[44px] p-5 py-6  min-h-screen h-auto justify-center md:p-0 lg:px-10 lg:pt-10 lg:pb-20 lg:min-h-fit lg:items-center lg:flex-row lg:justify-between lg:gap-5 overflow-hidden">
           <div
